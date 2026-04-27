@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # SAS Viya Connection Profile
 
-## Profile Anatomy - FLAVIO's test Apr 27, 2026
+## Profile Anatomy - FLAVIO's Test Apr 27, 2026
 
 A SAS Viya connection profile includes the following parameters:
 
